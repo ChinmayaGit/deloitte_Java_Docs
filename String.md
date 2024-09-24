@@ -5,6 +5,7 @@ break a string
 *it can break a string not a word*
 
 ```
+import java.util.StringTokenizer;
 System.out.println("Enter a line of integers separated by spaces:");
 
 		String input = scanner.nextLine();
